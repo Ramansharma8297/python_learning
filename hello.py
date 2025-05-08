@@ -1,8 +1,11 @@
-# This is a simple Python program to print "Hello, World!"
+#printing hello world message
+print("hello world")
+#\t for tab space
+print("hello world 2\thello world 2")
+#\"" for double quotes
+print("hello \n\"world\" 3")#\n for new line
 
-print("Hello, World!")
-# This program demonstrates the basic syntax of Python and how to print output to the console.
-# It is a common first program for beginners learning Python.
-# The print function is used to display the string "Hello, World!" on the screen.
-# This program does not take any input or perform any calculations.
-# It simply serves as an introduction to the Python programming language.
+print("""Your Learning Path :
+\t- Python Basics 
+\t- Python Advanced 
+\t- Python Data Science""")
