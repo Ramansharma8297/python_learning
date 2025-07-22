@@ -1,0 +1,1 @@
+print("Your Learing Path: \n -Python Basics\n - Data Structures\n - Algorithms\n ")
